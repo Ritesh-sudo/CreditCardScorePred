@@ -43,6 +43,7 @@ The Credit Card Score Prediction project covers the entire machine learning work
 ## Data
 
 The project utilizes historical financial data that includes:
+
 	•	Customer Demographics: Age, employment status, and other personal attributes.
 	•	Credit History: Records of past loans, repayment behavior, and credit activity.
 	•	Financial Metrics: Income, expenditure, and spending patterns.
@@ -52,6 +53,7 @@ Raw data should be stored in the data/raw/ directory, while the preprocessing sc
 ## Model Details
 
 The project experiments with several machine learning models:
+
 	•	Logistic Regression: Serves as a baseline to capture fundamental trends.
 	•	Random Forest: Captures complex, non-linear relationships in the data.
 	•	XGBoost: An advanced boosting algorithm that delivers robust performance with careful tuning.
@@ -61,6 +63,7 @@ Each model is evaluated using cross-validation and optimized through hyperparame
 ## Results and Evaluation
 
 Model performance is assessed using multiple key metrics:
+
 	•	Accuracy: The overall correctness of the model’s predictions.
 	•	Precision & Recall: Metrics to evaluate the model’s performance in predicting positive cases.
 	•	ROC-AUC: Measures the model’s ability to distinguish between classes.
