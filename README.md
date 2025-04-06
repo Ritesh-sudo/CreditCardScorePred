@@ -12,9 +12,6 @@ A machine learning project designed to predict credit card scores using historic
 - [Data](#data)
 - [Model Details](#model-details)
 - [Results and Evaluation](#results-and-evaluation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 In today's data-driven financial landscape, accurately assessing customer creditworthiness is crucial. This project leverages machine learning techniques to predict credit card scores by analyzing historical financial data, aiding financial institutions in making informed lending decisions and managing risk effectively.
