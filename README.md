@@ -11,7 +11,6 @@ A machine learning project designed to predict credit card scores using historic
 - [Technologies Used](#technologies-used)
 - [Data](#data)
 - [Model Details](#model-details)
-- [Results and Evaluation](#results-and-evaluation)
 
 ## Overview
 In today's data-driven financial landscape, accurately assessing customer creditworthiness is crucial. This project leverages machine learning techniques to predict credit card scores by analyzing historical financial data, aiding financial institutions in making informed lending decisions and managing risk effectively.
@@ -59,11 +58,3 @@ The project experiments with several machine learning models:
 	•	XGBoost: An advanced boosting algorithm that delivers robust performance with careful tuning.
 
 Each model is evaluated using cross-validation and optimized through hyperparameter tuning to ensure reliable performance.
-
-## Results and Evaluation
-
-Model performance is assessed using multiple key metrics:
-
-	•	Accuracy: The overall correctness of the model’s predictions.
-	•	Precision & Recall: Metrics to evaluate the model’s performance in predicting positive cases.
-	•	ROC-AUC: Measures the model’s ability to distinguish between classes.
